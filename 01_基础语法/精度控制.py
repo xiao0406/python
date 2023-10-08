@@ -12,3 +12,5 @@ age = 15
 money = 12.1
 message =f"年龄{age},身价：{money}"
 print(message)
+
+qqqqq
