@@ -16,7 +16,7 @@ for 临时变量 in 待处理数据集(可迭代对象):
 #         count += 1
 # print(count)
 
-
+1
 # a = [1,1.1,"2,2"]
 # for e in a:
 #     print(f"类型是：{type(e)}，结果是：{e}")
