@@ -27,3 +27,14 @@ print(name2.strip())
 print(name2.strip().strip("2"))
 print(name.count("a"))
 print(len(name))
+
+print("=====================")
+aaa = "abcde"
+bbb = ''
+count = 0
+while count <len(aaa):
+    bbb += aaa[len(aaa)-count -1]
+    count +=1
+
+print(bbb)
+
